@@ -1,2 +1,3 @@
 // write your code below!
-Function happyHo
+function happyHolidays (string)
+  return ("Happy holidays!")
